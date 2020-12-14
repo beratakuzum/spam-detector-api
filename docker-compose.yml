@@ -1,0 +1,11 @@
+api:
+  build: .
+  command: python run.py
+  ports:
+    - "8080:8080"
+  volumes:
+    - .:/api
+  links:
+    - db
+db:
+  image: mongo
