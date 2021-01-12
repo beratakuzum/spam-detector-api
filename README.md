@@ -1,7 +1,7 @@
 #       spam-detector-api
 
 
-spam-detector-api is a REST interface to model trained to detect spam phone calls. The training project is here: https://github.com/beratakuzum/spam-detector-train
+spam-detector-api is a REST interface of the model trained to detect spam phone calls. The training project is here: https://github.com/beratakuzum/spam-detector-train
 
 ### Dependencies and Libraries
 
